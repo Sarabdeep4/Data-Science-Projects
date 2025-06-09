@@ -5,7 +5,7 @@ This repository contains a collection of data science and machine learning proje
 ## 📁 Project List
 
 ### 🔹 [Belarus Car Price Prediction](./belarus-car-price-prediction)
-Predicting the prices of used cars in Belarus using data preprocessing, feature engineering, and machine learning models like Linear Regression and XGBoost. Includes full EDA, model comparison, and evaluation.
+Predicting the prices of used cars in Belarus using data preprocessing, feature engineering, and machine learning models. Includes full EDA, model comparison, and evaluation.
 
 ---
 
