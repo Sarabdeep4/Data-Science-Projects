@@ -4,7 +4,7 @@ This repository contains a collection of data science and machine learning proje
 
 ## 📁 Project List
 
-### 🔹 [Belarus Car Price Prediction](./Belarus-Car-Price-Prediction)
+### 🔹 [Belarus Car Price Prediction](./belarus-car-price-prediction)
 Predicting the prices of used cars in Belarus using data preprocessing, feature engineering, and machine learning models. Includes full EDA, model comparison, and evaluation.
 
 ### 🔹 [Breast Cancer Prediction](./breast-cancer-prediction)
