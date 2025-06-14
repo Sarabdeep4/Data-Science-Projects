@@ -1,6 +1,6 @@
-# Breast Cancer Prediction
+# Belarus Car Price Prediction 🚗💰
 
-This project uses the **Wisconsin Breast Cancer Dataset** to build a binary classification model that predicts whether a tumor is **malignant (M)** or **benign (B)** using logistic regression.
+This project aims to predict the prices of used cars in Belarus using machine learning techniques. The dataset contains various car attributes like brand, model, year, mileage, engine type, and more.
 
 ## 📌 Overview
 
