@@ -18,4 +18,20 @@ Predicting customer churn using classification models based on customer behavior
 
 ---
 
+### 🆕 New Projects
+
+### 🔹 [Diamond Price Prediction](./diamond-price-prediction)
+Predicting the price of diamonds based on features like carat, cut, color, and clarity using regression models such as Random Forest and XGBoost.
+
+### 🔹 [E-Commerce Product Delivery Prediction](./ecommerce-delivery-prediction)
+Classification project to predict whether a product delivery will be on time based on shipment mode, warehouse block, product importance, and more.
+
+### 🔹 [Heart Stroke Prediction](./heart-stroke-prediction)
+Using health and demographic data to predict the likelihood of stroke using classification models like Random Forest, SVM, and Logistic Regression.
+
+### 🔹 [Hotel Reservations Cancellation Prediction](./hotel-cancellation-prediction)
+Predicting whether a hotel booking will be canceled using features like deposit type, lead time, and customer behavior. Models include Logistic Regression, Random Forest, and XGBoost.
+
+---
+
 More projects will be added regularly.
